@@ -1,3 +1,7 @@
 June 26th is my first day of work from so many years being away from technology.
 My imposter syndrome can't escape that I feel anxious, scared and nervous coming back
 all gather at once.
+
+First day of work was very busy. There were many bugs need to be fixed after
+ new deployment last Thursday. My new assignment is build one page of homesforheroesfoundation.org
+ page (from six different tabs).
