@@ -5,3 +5,8 @@ all gather at once.
 First day of work was very busy. There were many bugs need to be fixed after
  new deployment last Thursday. My new assignment is build one page of homesforheroesfoundation.org
  page (from six different tabs).
+
+ I was assigned the wordpress project this week. The theme wasn't hard to understand but
+ there was no error that caused the customerize option. Luckily, the PHP teammate could
+ able to debug that I could understand where all the header, footer, and style.css are.
+ 
